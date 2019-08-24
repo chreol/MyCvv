@@ -1,0 +1,24 @@
+* {box-sizing: border-box;
+	border-radius: 25%;
+}
+
+.container {
+  width: 5em;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 1px;
+  padding-bottom: 2px;
+  color: white;
+  
+}
+
+.html {width: 4em; background-color: #4CAF50;}
+.css {width: 4em; background-color: #2196F3;}
+.js {width: 4em; background-color: #f44336;}
+.node {width: 3em; background-color: #808080;}
+.react {width: 3em; background-color: #800080;}
+.sql {width: 3em; background-color: #900000;}
+.bootstap {width: 4em; background-color: #909900;}
